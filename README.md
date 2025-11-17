@@ -440,9 +440,8 @@ This is an educational project for CS-3002 Information Security course at FAST-N
 
 ## 👥 Author
 
-[Your Name]
-[Your Roll Number]
-[Your Email]
+[Muhammad Khan]
+[22i-1040]
 
 ## 🔗 Repository
 
